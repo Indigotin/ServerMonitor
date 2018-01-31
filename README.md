@@ -16,7 +16,7 @@
 
 > Server：win10 PyCharm 
 
-> Client：Ubuntu 16.0
+> Client：Ubuntu 16.04
 
 Python标本均为3.6。由于2和3的版本之间有一些兼容性的问题，推荐使用python3，并保持server和client端的python版本一致。注意Ubuntu默认的phthon版本为2.7。
 
