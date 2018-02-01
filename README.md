@@ -24,7 +24,7 @@ Python标本均为3.6。由于2和3的版本之间有一些兼容性的问题，
 
 就酱。
 
-![image](https://wx3.sinaimg.cn/mw1024/95dda403ly1fnvnvyej49j20z1050my5.jpg)
+![image](http://wx1.sinaimg.cn/mw690/95dda403ly1fnzxsn7v5rj211s096mz7.jpg)
 
 部分参考：
 https://github.com/tenyue/ServerStatus
